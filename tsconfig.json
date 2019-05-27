@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "removeComments": false,
+        "lib": ["es6", "dom"],
+        "declaration": true,
+        "outDir": "./dist",
+        "preserveConstEnums": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "noImplicitAny": false,
+        "allowSyntheticDefaultImports": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "strictNullChecks": false,
+        "noImplicitThis": false,
+        "sourceMap": false,
+        "rootDir": "./src",
+        "resolveJsonModule": true,
+        "allowUnusedLabels": true,
+        "esModuleInterop": true,
+        "locale": "zh-CN",
+        "typeRoots": [
+            "node_modules/@types",
+            "global.d.ts"
+        ]
+    }
+}

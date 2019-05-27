@@ -1,0 +1,31 @@
+{
+  "name": "ts-npm-template",
+  "version": "1.0.0",
+  "description": "ts-npm-template",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": {
+    "name": "lizhooh",
+    "email": "lizhoos@foxmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ts-npm-template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lizhooh/ts-npm-template"
+  },
+  "bugs": {
+    "url": "https://github.com/Lizhooh/ts-npm-template/issues"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "typescript": "^3.4.5"
+  }
+}
